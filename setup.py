@@ -8,7 +8,7 @@ setup(
     description='A simple manual image categorizer',
     author='Adam Wentz',
     author_email='adam@adamwentz.com',
-    url='https://github.com/awentzonline/smic',
+    url='https://github.com/awentzonline/simple-manual-image-categorizer',
     packages=[
         'smic',
     ],
